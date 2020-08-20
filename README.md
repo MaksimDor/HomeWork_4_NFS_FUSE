@@ -200,7 +200,7 @@ drwxr-xr-x. 3 root root 28 Aug 20 07:30 ..
 ```
 [vagrant@client nfs_Open_share]$ sudo nano Proverka.txt
 ```
-**На серверной машине убеждаемся, что изменения в файле прошли**
+*На серверной машине убеждаемся, что изменения в файле прошли*
 ```
 [vagrant@server nfs_Share]$ sudo nano Proverka.txt
 ```
