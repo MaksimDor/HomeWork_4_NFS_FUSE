@@ -208,11 +208,18 @@ drwxr-xr-x. 3 root root 28 Aug 20 07:30 ..
 **В данной работе, я использовал следующие ресурсы:**
 
 https://tokmakov.msk.ru/blog/item/435
+
 https://tokmakov.msk.ru/blog/item/479
+
 https://oddstyle.ru/wordpress-2/stati-wordpress/polnocennoe-rukovodstvo-po-ispolzovaniyu-vagrant-dlya-ustanovki-testovoj-sredy-wordpress.html
+
 https://ovchinnikov.cc/writing/vagrant-multi-vm/
+
 https://losst.ru/nastrojka-firewall-centos-7
+
 https://www.gotoadm.ru/centos-nfs-server-install/
+
 https://losst.ru
+
 https://kubuntu.ru/node/3046
 
